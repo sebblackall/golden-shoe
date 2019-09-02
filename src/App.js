@@ -11,6 +11,7 @@ import Contact from './components/pages/Contact'
 
 // Navigation Bar
 import Navbar from './components/NavigationBar';
+import Footer from './components/FooterBar';
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
       <Route path="/about" component = {About}/>
       <Route path="/products" component = {Products}/>
       <Route path="/contact" component = {Contact}/>
-      
+      <Footer/>
     </Router>
   );
 }
