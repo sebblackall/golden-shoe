@@ -1,0 +1,9 @@
+.contact-holder {
+    margin-top: 50px;
+}
+
+.required::after {
+    content: "*";
+    color: red;
+    margin-left: 4px;
+}

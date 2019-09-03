@@ -7,6 +7,8 @@ import { BrowserRouter as Router, Route} from 'react-router-dom';
 import Home from './components/pages/Home'
 import About from './components/pages/About'
 import Products from './components/pages/Products'
+import Promotions from './components/pages/Promotions'
+import Help from './components/pages/HelpPage'
 import Contact from './components/pages/Contact'
 
 // Navigation Bar
@@ -20,6 +22,8 @@ function App() {
       <Route exact path="/" component = {Home}/>
       <Route path="/about" component = {About}/>
       <Route path="/products" component = {Products}/>
+      <Route path="/promotions" component = {Promotions}/>
+      <Route path="/faqs" component = {Help}/>
       <Route path="/contact" component = {Contact}/>
       <Footer/>
     </Router>

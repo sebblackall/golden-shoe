@@ -17,6 +17,8 @@ class NavigationBar extends Component {
             <Nav.Link as={Link} href="/" to="/">Home</Nav.Link>
             <Nav.Link as={Link} href="/" to="/about">About</Nav.Link>
             <Nav.Link as={Link} href="/" to="/products">Products</Nav.Link>
+            <Nav.Link as={Link} href="/" to="/promotions">Promotions</Nav.Link>
+            <Nav.Link as={Link} href="/" to="/faqs">Help</Nav.Link>
             <Nav.Link as={Link} href="/" to="/contact">Contact</Nav.Link>
           </Nav>
           <Nav>

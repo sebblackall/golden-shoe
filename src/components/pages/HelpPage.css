@@ -1,0 +1,28 @@
+.mini-header {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.mini-footer {
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.faq-body {
+    border-radius: 25px;
+    background-color: #e9ecef;
+    border: 1em solid white;
+}
+
+.faq-heading {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.accordion-body {
+    margin-bottom: 20px;
+}
