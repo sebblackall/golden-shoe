@@ -35,7 +35,9 @@ class Products extends Component {
                 <Jumbotron>
                     <div className="jumbo-heading">
                         <h5>Exclusive deals available!</h5>
-                        <Button variant="light">Learn more</Button>
+                        <Link to="/promotions">
+                            <Button variant="light">Learn more</Button>
+                        </Link>
                     </div>
                 </Jumbotron>
 

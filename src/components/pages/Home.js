@@ -51,7 +51,7 @@ class Home extends Component {
                         <Carousel.Caption>
                             <h2>Great deals..</h2>
                             <div id="carousel-button">
-                                <Link to="/products">
+                                <Link to="/promotions">
                                     <Button variant="light">Learn more</Button>
                                 </Link>
                             </div>
