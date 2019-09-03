@@ -1,0 +1,39 @@
+.jumbotron {
+    background-image: url(/assets/jumbotron-image.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 250px;
+}
+
+.jumbo-heading {
+    text-align: center;
+}
+
+.jumbo-heading > h5 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+.products-page-icon {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.products-page-body {
+    border-radius: 25px;
+    background-color: #e9ecef;
+    border: 1em solid white;
+}
+
+.name-bar {
+    background-color: #802920;
+}
+
+.name-bar > h5 {
+    color: white;
+}

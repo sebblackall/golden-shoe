@@ -11,3 +11,7 @@ b {
     height: 24px;
     width: 24px;
 }
+
+.footer-buffer {
+    margin-top: 11vh;
+}

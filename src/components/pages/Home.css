@@ -1,7 +1,3 @@
-.jumbotron {
-    margin-bottom: 1em;
-}
-
 .service-icon {
     height: 64px;
     width: 64px;
@@ -13,10 +9,53 @@
     border-radius: 25px;
     background-color: #e9ecef;
     border: 1em solid white;
-    
 }
 
-h3 {
+.service-body > h3 {
     color: #802920;
     margin-bottom: 1em;
+}
+
+.product-icon {
+    margin-top: -5vh;
+    max-height: 50%;
+    max-width: 50%;
+    min-height: 128px;
+    min-width: 128px;
+}
+
+.product-body {
+    border-radius: 25px;
+    background-color: #e9ecef;
+    border: 1em solid white;
+}
+
+.product-body > h3 {
+    color: #802920;
+    margin-top: -5vh;
+    margin-bottom: 1em;
+}
+
+.product-button {
+    margin-top: -1em;
+    margin-bottom: 1em;
+}
+
+.carousel-caption {
+    text-align: left;
+    color: #fff;
+    text-shadow: 2px 2px black;
+    position: absolute;
+    right: 0%;
+    bottom: 3%;
+    left: 2%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+
+.carousel-caption > h2 {
+    font-size: 4vw;
+    text-align: left;
 }
