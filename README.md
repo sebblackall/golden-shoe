@@ -7,7 +7,7 @@ In the project directory, you can run:
 ### `npm start server`
 
 Runs the backend in the development mode.<br>
-Open [http://localhost:5000/subscriberlist](http://localhost:5000/subscriberlist) to view it in the browser.
+Open [http://localhost:5000/api/subscriberlist](http://localhost:5000/api/subscriberlist) to view it in the browser.
 
 In the client directory, you can run:
 
