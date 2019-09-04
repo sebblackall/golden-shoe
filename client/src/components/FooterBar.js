@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import { Navbar, Nav, Form, FormControl, Button, Image, Row, Col } from 'react-bootstrap';
+import { Navbar, Nav, Form, FormControl, Button, Image } from 'react-bootstrap';
 
 import './FooterBar.css'
 
