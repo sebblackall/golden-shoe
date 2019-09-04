@@ -7,7 +7,6 @@ import './Home.css';
 
 class Home extends Component {
     render() {
-
         return (
             // Creating a container to hold components
             <Container>
